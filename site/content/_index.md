@@ -1,10 +1,10 @@
 ---
 title: "DP5N Contest"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: Contest Website
+image: http://134.255.232.175/OvN41/darc.gif
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why DP5N?
+    text: "DP5N ist eine Deutscher Amatuerfunker"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
