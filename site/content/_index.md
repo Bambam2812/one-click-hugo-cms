@@ -1,7 +1,7 @@
 ---
 title: "DP5N Contest"
 subtitle: Contest Website
-image: img/illustrations-coffee.svg
+image: /img/home-jumbotron.jpg
 blurb:
     heading: Why DP5N?
     text: "DP5N ist eine Deutscher Amatuerfunker"
