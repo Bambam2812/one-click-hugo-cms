@@ -1,7 +1,7 @@
 ---
 title: Our Coffee
 type: products
-image: /img/products-jumbotron.jpg
+image: http://134.255.232.175/OvN41/darc.gif
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
