@@ -1,7 +1,7 @@
 ---
 title: "DP5N Contest"
 subtitle: Contest Website
-image: http://134.255.232.175/OvN41/darc.gif
+image: img/illustrations-coffee.svg
 blurb:
     heading: Why DP5N?
     text: "DP5N ist eine Deutscher Amatuerfunker"
